@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DEC94A44-68B3-5824-09C5-A82B9A213805}</ProjectGuid>
+    <ProjectGuid>{86A388DD-A51A-2EBE-2D0A-F3AB680041E3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.HighDefinition.Runtime</AssemblyName>
@@ -1679,27 +1679,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.Player.csproj">
-      <Project>{FA5EC146-A814-4157-7E65-B7A1ECA3BB2A}</Project>
+      <Project>{C056FC8F-950A-4DC0-22F3-D24704016D14}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Player.csproj">
-      <Project>{F5B690C1-525D-A7B1-C7AE-DA59893839F8}</Project>
+      <Project>{1579667D-D6B5-6DD7-4D5B-F0AB8E3B31C3}</Project>
       <Name>Unity.Mathematics.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Player.csproj">
-      <Project>{A015971B-6669-B5DC-0733-D33267D11933}</Project>
+      <Project>{1F2FC1F2-916E-7E5C-1FEF-07C2DCB83F5D}</Project>
       <Name>Unity.Burst.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime.Player.csproj">
-      <Project>{FB09CD71-2EFD-22E3-01A7-BB898329DD46}</Project>
+      <Project>{F72A26FB-5B7A-6610-E058-3D35C9D689A5}</Project>
       <Name>Unity.RenderPipelines.HighDefinition.Config.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualEffectGraph.Runtime.Player.csproj">
-      <Project>{CA31D1FA-1979-1B8F-1D7F-7280EDAA16B3}</Project>
+      <Project>{5730521C-2022-7826-144D-1990EC1B0CF8}</Project>
       <Name>Unity.VisualEffectGraph.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{06E827E1-B829-CC0D-4927-471BC775760F}</Project>
+      <Project>{EC9ED843-DF2E-D0A6-1C6E-ABF06A49D49F}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

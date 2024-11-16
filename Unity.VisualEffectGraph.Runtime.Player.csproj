@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CA31D1FA-1979-1B8F-1D7F-7280EDAA16B3}</ProjectGuid>
+    <ProjectGuid>{5730521C-2022-7826-144D-1990EC1B0CF8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.VisualEffectGraph.Runtime</AssemblyName>
@@ -960,11 +960,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Timeline.Player.csproj">
-      <Project>{F2AE9FB4-82CB-9B4A-3348-5DCD0B32A069}</Project>
+      <Project>{BB6C0E07-967E-AAC7-88C6-C9FAE29EF0B8}</Project>
       <Name>Unity.Timeline.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{06E827E1-B829-CC0D-4927-471BC775760F}</Project>
+      <Project>{EC9ED843-DF2E-D0A6-1C6E-ABF06A49D49F}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>
